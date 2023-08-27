@@ -22,16 +22,15 @@ In this repository where we can find HackerRank_SQL solutions from Basic - Hard.
 
 9. Weather observation station 4.
 
-10. Emplyoe Names.
+ 10. Emplyoe Names.
 
-11. Japan population.
+ 11. Japan population.
 
-12. Emplyoee salaries.
+ 12. Emplyoee salaries.
 
-13. Population density difference.
+ 13. Population density difference.
 
-14. Average population.
+ 14. Average population.
 
-15. Top Earners
-16. 
-17. 
+ 15. Top Earners
+
