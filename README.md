@@ -40,3 +40,5 @@ In this repository where we can find HackerRank_SQL solutions from Basic - Hard.
 
  18. Revising Aggregations - The COUNT Function.
 
+ 19. Higher than 75 Marks.
+
