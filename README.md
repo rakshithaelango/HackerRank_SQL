@@ -32,5 +32,11 @@ In this repository where we can find HackerRank_SQL solutions from Basic - Hard.
 
  14. Average population.
 
- 15. Top Earners
+ 15. Top Earners.
+
+ 16. Revising Aggregations - Averages.
+
+ 17. Revising Aggregations - The SUM Function.
+
+ 18. Revising Aggregations - The COUNT Function.
 
