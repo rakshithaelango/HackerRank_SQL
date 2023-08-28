@@ -2,7 +2,7 @@
 
 In this repository where we can find => HackerRank_SQL solutions from Basic - Hard / Database Query Language.
 
-## Solved Questions: 
+## Solved Questions SQL: 
 
 1. Revising the select query |.
 2. Revising the select query ||.
@@ -26,3 +26,13 @@ In this repository where we can find => HackerRank_SQL solutions from Basic - Ha
 20. Weather observation station 6.
 21. Weather observation station 7.
 
+## Solved Questions Database:
+
+1. DataBase Query Language.
+2. Procedural Language.
+3. Realtions -1.
+4. Relations -2.
+5. Index Architecture Types.
+6. Indexes -2.
+7. Indexes -4.
+8. 
