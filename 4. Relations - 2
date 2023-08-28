@@ -1,0 +1,7 @@
+4.Relations - 2
+
+## QUESTION:
+   The result which operation contains all pairs of tuples from the two relations, regardless of whether their attribute values match.
+
+## ANSWER:
+   Cartesian product
