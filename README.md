@@ -22,10 +22,7 @@ In this repository where we can find => HackerRank_SQL solutions from Basic - Ha
 16. Revising Aggregations - Averages.
 17. Revising Aggregations - The SUM Function.
 18. Revising Aggregations - The COUNT Function.
-
- 19. Higher than 75 Marks.
-
- 20. Weather observation station 6.
-
- 21. Weather observation station 7.
+19. Higher than 75 Marks.
+20. Weather observation station 6.
+21. Weather observation station 7.
 
