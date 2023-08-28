@@ -39,6 +39,13 @@ In this repository where we can find => HackerRank_SQL solutions from Basic - Ha
 9. OLAP Operations -1.
 10. Relation Algebra -3.
 11. Relation Algebra -4.
-12. 
+12. OLAP Operations -2.
+13. OLAP Cube Metadata.
+14. OLAP Name(s).
+15. The Total View.
+16. OLAP Name(s).
+17. 
+
+
 
 
