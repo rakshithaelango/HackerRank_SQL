@@ -43,9 +43,3 @@ In this repository where we can find => HackerRank_SQL solutions from Basic - Ha
 13. OLAP Cube Metadata.
 14. OLAP Name(s).
 15. The Total View.
-16. 
-17. 
-
-
-
-
