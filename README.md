@@ -1,6 +1,6 @@
 # HackerRank_SQL
 
-In this repository where we can find HackerRank_SQL solutions from Basic - Hard.
+In this repository where we can find => HackerRank_SQL solutions from Basic - Hard / Database Query Language.
 
 ## Solved Questions: 
 
