@@ -37,6 +37,8 @@ In this repository where we can find => HackerRank_SQL solutions from Basic - Ha
 7. Indexes -4.
 8. OLAP Performance.
 9. OLAP Operations -1.
-10. 
+10. Relation Algebra -3.
+11. Relation Algebra -4.
+12. 
 
 
