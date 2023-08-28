@@ -5,7 +5,6 @@ In this repository where we can find => HackerRank_SQL solutions from Basic - Ha
 ## Solved Questions: 
 
 1. Revising the select query |.
-
 2. Revising the select query ||.
 
 3. Select All.
