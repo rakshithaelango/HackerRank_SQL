@@ -1,0 +1,7 @@
+# Weather Observation Station 6
+
+## QUESTION:
+   Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result cannot contain duplicates.
+
+## SOLUTION:
+   SELECT CITY FROM STATION WHERE CITY REGEXP '^[AEIOUaeiou]'
