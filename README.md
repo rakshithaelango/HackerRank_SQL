@@ -26,7 +26,7 @@ In this repository where we can find => HackerRank_SQL solutions from Basic - Ha
 20. Weather observation station 6.
 21. Weather observation station 7.
 
-## Solved Questions Database:
+## Solved Questions Database [MCQ]:
 
 1. DataBase Query Language.
 2. Procedural Language.
@@ -35,4 +35,8 @@ In this repository where we can find => HackerRank_SQL solutions from Basic - Ha
 5. Index Architecture Types.
 6. Indexes -2.
 7. Indexes -4.
-8. 
+8. OLAP Performance.
+9. OLAP Operations -1.
+10. 
+
+
